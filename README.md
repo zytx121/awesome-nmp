@@ -2,6 +2,13 @@
 
 🐢 A collection of awesome Natural Music Processing libraries, resources and shiny things.
 
+![](https://user-gold-cdn.xitu.io/2018/5/5/1632fb2049005b8d?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
+
+## Facebook AI Research
+* [A Universal Music Translation Network](https://arxiv.org/pdf/1805.07848.pdf) - a neural network that transforms music style perfectly.
+  * [①](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652019174&idx=4&sn=28ed7b5cb44909a877e82db5f2cf1805&chksm=f121ed17c6566401efbb140982cb426dd8868f408dfcb59488c573a07ff4f9a3f2d7a2678f50&scene=0#rd)
+
 
 # Contributing
 
